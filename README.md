@@ -4,7 +4,7 @@
 
 <img 
   align="right" 
-  src="https://github.com/chandi977/chandi977/assets/55855799/66bf7e51-ea3f-4522-b23d-f461c3ab0a4c" 
+  src="https://github.com/Chandi977/Chandi977/assets/55855799/66bf7e51-ea3f-4522-b23d-f461c3ab0a4c" 
   width="40%" 
   alt="Coding GIF"
 />
