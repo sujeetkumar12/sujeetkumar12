@@ -72,15 +72,15 @@ const Sujeet = {
 
 <!-- 🏆 GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujeetkumar12&theme=darkhub">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sujeetkumar12&theme=darkhub">
 </p>
 
 ---
 
 <!-- 📊 GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujeetkumar12&theme=blue-green&show_icons=true&count_private=true" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetkumar12&theme=chartreuse-dark&layout=compact" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujeetkumar12&theme=blue-green&show_icons=true&count_private=true" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujeetkumar12&theme=chartreuse-dark&layout=compact" width="45%">
 </p>
 
 
