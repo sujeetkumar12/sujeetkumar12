@@ -1,6 +1,6 @@
 
 # Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Sujeet Kumar!
-### MCA '25 | Backend-Focused MERN Stack Developer | 500+ LeetCode Problems | Open to SWE Internships
+### MCA '27 | Frontend-Focused MERN Stack Developer | Open to SWE Internships
 
 <img 
   align="right" 
@@ -21,7 +21,7 @@ const Sujeet = {
     frontend: ["HTML", "CSS", "SASS", "JavaScript", "React.js"],
     tools: ["Git", "VS Code", "Postman", "WebSockets", "Firebase"],
   },
-  currentlyLearning: ["MERN Stack", "System Design", "Cloud Deployment"],
+  currentlyLearning: ["MERN Stack", "CMS Development", "Cloud Deployment"],
   contact: "sujitkumar6207@gmail.com",
 };
 ```
@@ -100,10 +100,10 @@ const Sujeet = {
     <td width="48%" valign="top" style="text-align: left;">
       <h3>📫 Let's Connect</h3>
       <ul>
-        <li>🌐 <a href="https://charan-portfolio-htvx.onrender.com/">Portfolio</a></li>
-        <li>🔗 <a href="https://www.linkedin.com/in/chandi-charan-mahato-3631a7178/">LinkedIn</a></li>
+        <li>🌐 <a href="https://portfolio-weld-three-16.vercel.app/">Portfolio</a></li>
+        <li>🔗 <a href="https://www.linkedin.com/in/sujeet-kumar-1b9413216/">LinkedIn</a></li>
         <li>💻 <a href="https://github.com/sujeetkumar12">GitHub Projects</a></li>
-        <li>📬 <a href="mailto:charan.f.sde@gmail.com">sujitkumar6207@gmail.com</a></li>
+        <li>📬 <a href="mailto:sujitkumar6207@gmail.com">sujitkumar6207@gmail.com</a></li>
       </ul>
       <p align="center">
         <img src="https://komarev.com/ghpvc/?username=sujeetkumar12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
